@@ -251,9 +251,9 @@ const AboutUs = () => {
                     With a deep-rooted passion for preserving India's rich cultural heritage, he meticulously curates the finest handcrafted sarees. His commitment ensures that every piece is not just a garment, but a masterpiece of exceptional quality and enduring craftsmanship.
                   </p>
                   <div className="flex flex-wrap gap-3 sm:gap-4">
-                    <div className="px-4 sm:px-6 py-2 sm:py-3 bg-rose-50 rounded-full text-rose-700 text-sm sm:text-base font-medium">Authentic Designs</div>
-                    <div className="px-4 sm:px-6 py-2 sm:py-3 bg-amber-50 rounded-full text-amber-700 text-sm sm:text-base font-medium">Premium Quality</div>
-                    <div className="px-4 sm:px-6 py-2 sm:py-3 bg-sky-50 rounded-full text-sky-700 text-sm sm:text-base font-medium">Expert Curation</div>
+                    <div className="px-3 sm:px-5 py-2 sm:py-3 bg-rose-50 rounded-full text-rose-700 text-sm sm:text-base font-medium">Authentic Designs</div>
+                    <div className="px-3 sm:px-5 py-2 sm:py-3 bg-amber-50 rounded-full text-amber-700 text-sm sm:text-base font-medium">Premium Quality</div>
+                    <div className="px-3 sm:px-5 py-2 sm:py-3 bg-sky-50 rounded-full text-sky-700 text-sm sm:text-base font-medium">Expert Curation</div>
                   </div>
                 </div>
               </div>
